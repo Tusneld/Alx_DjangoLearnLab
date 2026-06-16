@@ -27,4 +27,4 @@ bookshelf/: The Django app containing the logic for the book inventory.
 
 manage.py: The command-line utility for administrative tasks.
 
-*.md files: Documentation of specific CRUD operations performed in the Django shell.
+.md files: Documentation of specific CRUD operations performed in the Django shell.
